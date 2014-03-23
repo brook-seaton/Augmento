@@ -1,0 +1,5 @@
+From Ross Beyer at NASA,
+
+Interesting project. The Ames Stereo Pipeline does best when parameters about the cameras are very well known (as we get from spacecraft instruments). Photos from hand-held cameras over a hundred years ago is going to be challenging with our software. Not impossible, but not ideal, either.
+
+You might want to look into Microsoft's Photosynth project, or read about the "Building Rome in a Day" project (http://grail.cs.washington.edu/rome/) which does the same, but with lots more images that you have. These might lead you off into other software or projects that might be better for your problem.
