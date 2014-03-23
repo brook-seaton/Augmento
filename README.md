@@ -1,4 +1,4 @@
 Augmento
 ========
 
-Augmented Readlity SF
+Augmented Reality SF
